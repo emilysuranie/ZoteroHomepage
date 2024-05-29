@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project is a mockup of the Zotero homepage at Temple University. It serves as an instructional guide for students looking to utilize Zotero for their research papers. This guide covers the essential features of Zotero and provides instructions on how to use its advanced functionalities. 
+This project is a mockup of the Zotero homepage at Temple University. It serves as a user-friendly instructional guide for students looking to utilize Zotero for their research papers. This guide covers the essential features of Zotero and provides instructions on how to use its advanced functionalities. 
 <br />
 
 
