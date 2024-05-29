@@ -15,7 +15,7 @@ This project is a mockup of the Zotero homepage at Temple University. It serves 
 <h2>Project:</h2>
 
 <p align="center">
-Link to Instructional Guide: <br/>
+Link to Homepage: <br/>
 <a href="https://www.canva.com/design/DAGGoDpEjHo/865wiNqWxRv-Qq3Rb2q-Lg/edit?utm_content=DAGGoDpEjHo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img alt="Zotero at Temple University"/></a>
 <br />
 <br />
