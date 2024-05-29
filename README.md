@@ -1,4 +1,4 @@
-<h1>Instructional Guide of Zotero's Homepage</h1>
+<h1>Zotero's Homepage Design for Temple University</h1>
 
 
 <h2>Description</h2>
